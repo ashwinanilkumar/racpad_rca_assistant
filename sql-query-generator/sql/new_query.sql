@@ -1,0 +1,5 @@
+-- SQL Query Generator — Scratch File
+-- Use this file to draft or save queries.
+-- Generated queries are pasted here when you use /save-query.
+-- Supported schemas: racadm, configadm, prcadm
+-- Always use fully qualified names: schema_name.table_name

@@ -1,0 +1,21 @@
+{
+    "explorer.compactFolders": false,
+    "explorer.decorations.colors": true,
+    "explorer.decorations.badges": true,
+    "explorer.fileNesting.enabled": false,
+    "explorer.autoReveal": "focusNoScroll",
+    "workbench.tree.indent": 20,
+    "workbench.tree.renderIndentGuides": "always",
+    "files.exclude": {
+        "**/__pycache__": true,
+    },
+    "search.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        "**/node_modules": true,
+        "**/agent_env": true,
+        "**/.venv": true
+    },
+    "python.defaultInterpreterPath": "./.venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": false
+}

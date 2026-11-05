@@ -38,7 +38,7 @@ Investigation toolkit for the Rent-A-Center (`rentacenter`) support team. It con
 
 ```powershell
 git clone <this-repo-url>
-cd github-rca-assistant
+cd racpad_rca_assistant
 npm install
 ```
 
